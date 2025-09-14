@@ -1,5 +1,9 @@
 YourMoney Bank
 
+
+<img width="3058" height="2114" alt="Picture1" src="https://github.com/user-attachments/assets/2fea4393-4448-40bd-acda-deba67104553" />
+
+
 YourMoney Bank is a simple digital banking system created to simulate core banking features. It is designed as a learning project to understand how banking applications work behind the scenes.
 
 About the Project
